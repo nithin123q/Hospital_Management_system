@@ -1,4 +1,4 @@
-# Online Hospital_Management_system
+# Hospital_Management_system
 
 HMS Project which covers all the aspects of hospital.
 
